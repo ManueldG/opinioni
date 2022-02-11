@@ -22,11 +22,11 @@ mkdir opinioni
 cd opinioni
 ```
 
-scaricare il progetto compresso da [https://github.com/ManueldG/opinioni/archive/refs/heads/master.zip] (opinioni-master.zip) ed estrarlo nella directory appena creata
+scaricare il progetto compresso da [opinioni-master.zip](https://github.com/ManueldG/opinioni/archive/refs/heads/master.zip)  ed estrarlo nella directory appena creata
 
 
 
-fate partire il web server e aprite [http://localhost/opinioni] (opinioni)
+fate partire il web server e aprite [opinioni](http://localhost/opinioni) 
 
 
 
