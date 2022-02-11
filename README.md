@@ -6,20 +6,21 @@ posizionarsi nella cartella della directory radice di Apache(htdocs, httpdocs o 
 
 usando git da terminale potete inviare i seguenti comandi 
 
-"""
+```
 mkdir opinioni
 cd opinioni
 git clone https://github.com/ManueldG/opinioni.git
-"""
+```
 
 oppure 
 
 creare la cartella "opinioni"
 da terminale
-"""
+
+```
 mkdir opinioni
 cd opinioni
-"""
+```
 
 scaricare il progetto compresso da [https://github.com/ManueldG/opinioni/archive/refs/heads/master.zip] opinioni-master.zip ed estrarlo nella directory appena creata
 
