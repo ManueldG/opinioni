@@ -2,33 +2,33 @@
 header('Content-Type: application/json; charset=utf-8'); // creo un documento json
 include './cors.php'; // abilito il cross origin
 
-// domande e scelte
+// domande e scelte Answer
 $data = [
     [
-        'titolo' => ' domanda 1?',
+        'titolo' => ' Question  1?',
         'risp' => [
-        'risp 01',
-        'risp 02',
-        'risp 03',
-        'risp 04',
+        'Answer 01',
+        'Answer 02',
+        'Answer 03',
+        'Answer 04',
         ]                    
     ],
     [
-       'titolo' => 'domanda 2?',
+       'titolo' => 'Question 2?',
         'risp' => [
-        'risp 1',
-        'risp 2',
-        'risp 3',
-        'risp 4',
+        'Answer 1',
+        'Answer 2',
+        'Answer 3',
+        'Answer 4',
         ],       
     ],
     [
-        'titolo' => 'domanda 3?',
+        'titolo' => 'Question 3?',
          'risp' => [
-         'risp 1',
-         'risp 2',
-         'risp 3',
-         'risp 4',
+         'Answer 1',
+         'Answer 2',
+         'Answer 3',
+         'Answer 4',
          ],       
      ],
     'verifica'=>"001010000010" //soluzione che invio alla fine
