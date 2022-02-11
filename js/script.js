@@ -17,7 +17,7 @@ let out='';
 const questions = 4;
 const xmlhttp = new XMLHttpRequest(); 
 
-xmlhttp.open("GET", "http://localhost/test/api.php?val=0");//apro API
+xmlhttp.open("GET", "./API/api.php?val=0");//apro API
 xmlhttp.send(); // invio 
 
 
